@@ -1,0 +1,23 @@
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+
+services:
+  - docker
+
+env:
+  - DEMYX_USERNAME=demyx DEMYX_REPOSITORY=eternal-terminal
+
+before_install:
+  - docker pull alpine
+
+script:
+  - docker build --no-cache -t demyx/"$DEMYX_REPOSITORY" .
+  - docker run -d --rm --name et demyx/"$DEMYX_REPOSITORY"
+  - docker exec -t et etserver --version
+
+after_success:
+  - echo "$DEMYX_PASSWORD" | docker login -u "$DEMYX_USERNAME" --password-stdin
+  - docker push demyx/"$DEMYX_REPOSITORY"
+  - bash travis.sh
