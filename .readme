@@ -20,7 +20,7 @@ TITLE | DESCRIPTION
 SSH PORT | 22
 ET PORT | 2022
 
-## Updates
+## Updates & Support
 [![Code Size](https://img.shields.io/github/languages/code-size/demyxco/eternal-terminal?style=flat&color=blue)](https://github.com/demyxco/eternal-terminal)
 [![Repository Size](https://img.shields.io/github/repo-size/demyxco/eternal-terminal?style=flat&color=blue)](https://github.com/demyxco/eternal-terminal)
 [![Watches](https://img.shields.io/github/watchers/demyxco/eternal-terminal?style=flat&color=blue)](https://github.com/demyxco/eternal-terminal)
@@ -29,6 +29,7 @@ ET PORT | 2022
 
 * Auto built weekly on Sundays (America/Los_Angeles)
 * Rolling release updates
+* For support: [#demyx](https://webchat.freenode.net/?channel=#demyx)
 
 ## Usage
 REMOTE MACHINE: Run eternal terminal server first
