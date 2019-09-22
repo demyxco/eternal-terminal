@@ -4,7 +4,7 @@
 [![Architecture](https://img.shields.io/badge/linux-amd64-important?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![Alpine](https://img.shields.io/badge/alpine-3.10.2-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![OpenSSH](https://img.shields.io/badge/openssh-8.0p1-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
-[![eternal-erminal](https://img.shields.io/badge/et-6.0.0-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
+[![eternal-erminal](https://img.shields.io/badge/et-6.0.1-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_coffee-$5-informational?style=flat&color=blue)](https://www.buymeacoffee.com/VXqkQK5tb)
 
 Eternal Terminal (ET) is a remote shell that automatically reconnects without interrupting the session. Learn how to install and use it here https://eternalterminal.dev.
@@ -20,7 +20,7 @@ TITLE | DESCRIPTION
 SSH PORT | 22
 ET PORT | 2022
 
-## Updates
+## Updates & Support
 [![Code Size](https://img.shields.io/github/languages/code-size/demyxco/eternal-terminal?style=flat&color=blue)](https://github.com/demyxco/eternal-terminal)
 [![Repository Size](https://img.shields.io/github/repo-size/demyxco/eternal-terminal?style=flat&color=blue)](https://github.com/demyxco/eternal-terminal)
 [![Watches](https://img.shields.io/github/watchers/demyxco/eternal-terminal?style=flat&color=blue)](https://github.com/demyxco/eternal-terminal)
@@ -29,6 +29,7 @@ ET PORT | 2022
 
 * Auto built weekly on Sundays (America/Los_Angeles)
 * Rolling release updates
+* For support: [#demyx](https://webchat.freenode.net/?channel=#demyx)
 
 ## Usage
 REMOTE MACHINE: Run eternal terminal server first
