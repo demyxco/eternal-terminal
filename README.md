@@ -6,6 +6,7 @@
 [![OpenSSH](https://img.shields.io/badge/openssh-8.1p1-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![eternal-erminal](https://img.shields.io/badge/et-6.0.4-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_coffee-$5-informational?style=flat&color=blue)](https://www.buymeacoffee.com/VXqkQK5tb)
+[![Become a Patron!](https://img.shields.io/badge/become%20a%20patron-$5-informational?style=flat&color=blue)](https://www.patreon.com/bePatron?u=23406156)
 
 Eternal Terminal (ET) is a remote shell that automatically reconnects without interrupting the session. Learn how to install and use it here https://eternalterminal.dev.
 
