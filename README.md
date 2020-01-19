@@ -2,7 +2,7 @@
 [![Build Status](https://img.shields.io/travis/demyxco/eternal-terminal?style=flat)](https://travis-ci.org/demyxco/eternal-terminal)
 [![Docker Pulls](https://img.shields.io/docker/pulls/demyx/eternal-terminal?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![Architecture](https://img.shields.io/badge/linux-amd64-important?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
-[![Alpine](https://img.shields.io/badge/alpine-3.11.2-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
+[![Alpine](https://img.shields.io/badge/alpine-3.11.3-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![OpenSSH](https://img.shields.io/badge/openssh-8.1p1-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![eternal-erminal](https://img.shields.io/badge/et-6.0.5-informational?style=flat&color=blue)](https://hub.docker.com/r/demyx/eternal-terminal)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy_me_coffee-$5-informational?style=flat&color=blue)](https://www.buymeacoffee.com/VXqkQK5tb)
