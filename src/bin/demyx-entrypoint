@@ -1,0 +1,10 @@
+#!/bin/bash
+# Demyx
+# https://demyx.sh
+set -euo pipefail
+
+# Configure ssh
+sudo demyx-ssh
+
+# Start the Eternal Terminal server
+etserver -v 9 -logtostdout true
